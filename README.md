@@ -1,8 +1,38 @@
-# React + Vite
+# Image Processing
+## 1. Image Compressor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi Image Processing adalah sebuah aplikasi web sederhana yang memungkinkan pengguna untuk mengompres file image yang diunggah. Pengguna dapat mengunggah file image dalam berbagai format, lalu mengompresnya.
 
-Currently, two official plugins are available:
+## 2. Image Upscale
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+image yang diinputkan user bisa di upscaling sampai 2x
+
+## Instalasi Lokal
+
+Jika Anda ingin menjalankan aplikasi Audio Compressor secara lokal, Anda dapat mengikuti langkah-langkah berikut:
+
+1. Clone repositori ini ke komputer Anda:
+
+```bash
+git clone https://github.com/namarepo
+```
+
+2. Masuk ke direktori proyek:
+
+```bash
+cd directory
+```
+
+3. Install dependensi yang diperlukan:
+
+```bash
+npm install
+```
+
+4. Jalankan aplikasi:
+
+```bash
+npm run dev
+```
+
+## thank you
